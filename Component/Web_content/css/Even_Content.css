@@ -1,0 +1,27 @@
+#Even_Content{
+ background: #07575b;
+ min-height: 70vh;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ padding-top: 1em;
+ width: 100%;
+}
+.Even_content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1em;
+    text-align:start;
+    color: #fff;
+    text-decoration: none;
+    word-spacing: 1px;
+}
+.Even_content h1{
+    text-transform: capitalize;
+}
+ul{
+    list-style: none;
+}
+
+  

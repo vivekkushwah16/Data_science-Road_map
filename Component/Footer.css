@@ -1,0 +1,13 @@
+.footer_bg{
+	background-color:#003b46;
+	color: #fff;
+
+}
+.footer_bg a{
+    color: #fff;
+	text-decoration: none;
+}
+ .footer_bg a{
+	 cursor: pointer;
+ }
+ 

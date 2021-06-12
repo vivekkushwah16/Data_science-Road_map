@@ -1,0 +1,27 @@
+#Odd_Content{
+    min-height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* width: 120vw; */
+   }
+.Odd_content{
+ margin-top: 2em;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ text-align:start;
+ text-decoration: none;
+ padding:1em;
+ word-spacing: normal;
+ 
+}
+ul{
+    list-style: none;
+    font-size: 1em;
+}
+ 
+p{
+  font-size: 1.2em;
+  text-decoration: none;
+}
